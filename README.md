@@ -62,11 +62,7 @@ pip install pandas numpy seaborn matplotlib lightgbm xgboost scikit-learn
 
 ## ▶️ How to Run
 
-1. Clone this repository or copy the code into a script (`main.py`)
-2. Place `train.csv` and `test.csv` in the working directory
-3. Run the script:
-```bash
-python main.py
+1. Clone this repository 
 ```
 
 
